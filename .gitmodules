@@ -1,0 +1,3 @@
+[submodule "TestLib"]
+	path = TestLib
+	url = D:\\Docs\\Visual Studio 2013\\Projects\\TestLib
